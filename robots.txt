@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ipeeloawie.jdani.eu/sitemap.xml
